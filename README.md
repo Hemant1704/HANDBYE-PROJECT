@@ -139,12 +139,3 @@ Also to perform mathematical operations on the images we will need to <b>import 
 math module</b> present in python which also has certain functions like sqrt abs and other.
 <img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/softw_req.JPG" height = 250px width = 680px>
 </p>
-<h1>FINAL RESULTS </h1>
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges1.JPG" height = 250px width = 400px align = "left">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges2.JPG" height = 250px width = 400px align = "right">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges3.JPG" height = 250px width = 400px align = "left">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges4.JPG" height = 250px width = 400px align = "right">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges5.JPG" height = 250px width = 400px align = "left">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges6.JPG" height = 250px width = 400px align = "right">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges7.JPG" height = 250px width = 400px align = "left">
-<img src = "https://github.com/Hemant1704/HANDBYE-PROJECT/blob/master/gesture_images/ges8.JPG" height = 250px width = 400px align = "right">
